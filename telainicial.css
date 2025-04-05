@@ -1,0 +1,43 @@
+body
+{
+    background-image: url(imagens/plano\ de\ fundo\ 1\ tela\ inicial.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.table1
+{
+    height: 98vh;
+    width: 100%;
+}
+
+.logo
+{
+        padding-left: 450px;
+        vertical-align: top;
+}
+
+.entrar
+{
+    border-radius: 50px;
+    background-color: rgb(51, 0, 255);
+    width: 50%;
+    height: 2cm;
+}
+
+.tableentrar
+{
+    height: 2vh;
+    width: 100%;
+}
+
+.textoentrar
+{
+    text-align: center;
+}
+
+.entrar
+{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
